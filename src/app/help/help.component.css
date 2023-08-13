@@ -1,0 +1,84 @@
+
+.Help{
+  position: relative;
+}
+.Path9387 {
+  position: absolute;
+  top: 252px;
+  left: -8.5px;
+  width: 1937px;
+  height: 430px;
+  background-image: url('src/assets/images/Path 9387.png');
+  background-size: cover;
+  background-position: center;
+  opacity: 1;
+}
+.Mask-Group{
+  position: absolute;
+  top: 0px;
+  left: -8.5px;
+  width: 1937px;
+  height: 431px;
+  background-image: url('src/assets/images/Mask Group 9.png');
+  background-size: cover;
+  background-position: center;
+  opacity: 1;
+}
+.Take-back-control{
+  position: absolute;
+  top: 91px;
+  left: 504px;
+  width: 920px;
+  height: 125px;
+  background:  url('src/assets/images/Take back control with CamelSoft IT solutions Tailored to help you win.png');
+  opacity: 1;
+}
+.button2 {
+  position: absolute;
+  top: 260px;
+  left: 820px;
+  width: 217px;
+  height: 58px;
+  opacity: 1;
+  bottom: 20px;
+  transform: translateX(-50%);
+  padding: 10px 30px;
+  background-color: transparent;
+  color: #ffffff;
+  border: #ffffff solid 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: "Madani Arabic Bold 400", bold;
+}
+
+.button2:hover {
+  background-color: #ffffff;
+  color: #00000f;
+  border: none;
+
+}
+.button3 {
+  position: absolute;
+  top: 260px;
+  left: 1100px;
+  width: 217px;
+  height: 58px;
+  opacity: 1;
+  bottom: 20px;
+  transform: translateX(-50%);
+  padding: 10px 30px;
+  background-color: transparent;
+  color: #ffffff;
+  border: #ffffff solid 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: "Madani Arabic Bold 400", bold;
+}
+
+.button3:hover {
+  background-color: #ffffff;
+  color: #00000f;
+  border: none;
+}

@@ -1,0 +1,576 @@
+
+.ourWorks {
+  position: relative;
+  top: 200px;
+  left: 0px;
+  width: 1920px;
+  height: 2579.55px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.our-works-image {
+  position: absolute;
+  top: 72px;
+  left: 855px;
+  width: 210px;
+  height: 61px;
+  background: transparent url('src/assets/images/Our works.png');
+  opacity: 1;
+}
+.all {
+  position: absolute;
+  top: 191px;
+  left: 523px;
+  width: 36px;
+  height: 46px;
+  background: transparent url('src/assets/images/All.png');
+  opacity: 1;
+}
+.line {
+  position: absolute;
+  top: 244px;
+  left: 522px;
+  width: 38px;
+  height: 3px;
+  background: transparent url('src/assets/images/line 3.png');
+  opacity: 1;
+}
+.Website {
+  position: absolute;
+  top: 191px;
+  left: 661px;
+  width: 125px;
+  height: 46px;
+  background: transparent url('src/assets/images/Website.png');
+  opacity: 1;
+}
+.app-mobile {
+  position: absolute;
+  top: 191px;
+  left: 902px;
+  width: 168px;
+  height: 46px;
+  background: transparent url('src/assets/images/App mobile.png');
+  opacity: 1;
+}
+.Social-media {
+  position: absolute;
+  top: 191px;
+  left: 1206px;
+  width: 191px;
+  height: 46px;
+  background: transparent url('src/assets/images/Social media.png');
+  opacity: 1;
+}
+.button1 {
+  position: absolute;
+  top: 917px;
+  left: 1000px;
+  width: 324px;
+  height: 58px;
+  opacity: 1;
+  bottom: 20px;
+  transform: translateX(-50%);
+  padding: 10px 20px;
+  background-color: #ffffff;
+  color: #00000f;
+  border: #111111 solid 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: "Madani Arabic Bold 400", bold;
+}
+
+.button1:hover {
+  background-color: #efb909;
+  border: none;
+}
+.Some-reasons{
+  position: absolute;
+  top: 1058px;
+  left: 925px;
+  width: 142px;
+  height: 30px;
+  background: transparent url('src/assets/images/Some reasons.png') ;
+  opacity: 1;
+}
+.How-we-roll{
+  position: absolute;
+  top: 1084px;
+  left: 890px;
+  width: 236px;
+  height: 61px;
+  background: transparent url('src/assets/images/How we roll.png') ;
+  opacity: 1;
+}
+.line1 {
+  position: absolute;
+  top: 1232px;
+  left: 1000px;
+  width: 3px;
+  height: 1278px;
+  background: transparent url('src/assets/images/Line 1.png') ;
+  /* border: 3px solid #C2C2C2;*/
+  opacity: 1;
+}
+.line2 {
+  position: absolute;
+  top: 1221px;
+  left: 1000px;
+  width: 6px;
+  height: 214px;
+  background: transparent url('src/assets/images/Line 2.png');
+  /* border: 3px solid #C2C2C2;*/
+  opacity: 1;
+}
+.Service-image {
+  position: absolute;
+  top: 1224px;
+  left: 507px;
+  width: 369px;
+  height: 272px;
+  background: transparent url('src/assets/images/Group 2758.png');
+  opacity: 1;
+}
+.image01{
+  position: absolute;
+  top: 1224px;
+  left: 1040px;
+  width: 99px;
+  height: 147px;
+  background: transparent url('src/assets/images/01.png');
+  opacity: 1;
+
+}
+.Choose-a-Service{
+  position: absolute;
+  top: 1306px;
+  left: 1040px;
+  width: 259px;
+  height: 46px;
+  background: transparent url('src/assets/images/Choose a Service.png');
+  opacity: 1;
+
+}
+.body02-image{
+  position: absolute;
+  top: 1368px;
+  left: 1040px;
+  width: 277px;
+  height: 104px;
+  background: transparent url('src/assets/images/body2.png');
+  opacity: 1;
+
+}
+.meeting-image1{
+  position: absolute;
+  top: 1646px;
+  left: 1023px;
+  width: 339px;
+  height: 161px;
+  background: transparent url('src/assets/images/Group 2764.png');
+  opacity: 1;
+}
+.meeting-image2{
+  position: absolute;
+  top: 1602px;
+  left: 1090px;
+  width: 79px;
+  height: 205px;
+  background: transparent url('src/assets/images/Group 2857.png');
+  opacity: 1;
+}
+.meeting-image3{
+  position: absolute;
+  top: 1602px;
+  left: 1149px;
+  width: 117px;
+  height: 204px;
+  background: transparent url('src/assets/images/Group 2853.png');
+  opacity: 1;
+}
+.image02{
+  position: absolute;
+  top: 1560px;
+  left: 560px;
+  width: 120px;
+  height: 147px;
+  background: transparent url('src/assets/images/02.png');
+  opacity: 1;
+}
+.Request-a-Meeting{
+  position: absolute;
+  top: 1640px;
+  left: 568px;
+  width: 283px;
+  height: 46px;
+  background: transparent url('src/assets/images/Request a Meeting.png');
+  opacity: 1;
+}
+.body03-image{
+  position: absolute;
+  top: 1702px;
+  left: 568px;
+  width: 277px;
+  height: 104px;
+  background: transparent url('src/assets/images/body3.png ');
+  opacity: 1;
+}
+/*
+.custom-image{
+  position: absolute;
+  top: 1962px;
+  left: 576px;
+  width: 105px;
+  height: 214px;
+  background: transparent url('src/assets/images/Group 2874.png');
+  opacity: 1;
+}*/
+.Board-image{
+  position: absolute;
+  top: 1924px;
+  left: 620px;
+  width: 193px;
+  height: 236px;
+  background: transparent url('src/assets/images/Board.png');
+  opacity: 1;
+}
+.image03{
+  position: absolute;
+  top: 1908px;
+  left: 1048px;
+  width: 119px;
+  height: 147px;
+  background: transparent url('src/assets/images/03.png');
+  opacity: 1;
+}
+.Receive-Custom-Plan{
+  position: absolute;
+  top: 1988px;
+  left: 1048px;
+  width: 314px;
+  height: 46px;
+  background: transparent url('src/assets/images/Receive Custom Plan.png');
+  opacity: 1;
+}
+.body04-image{
+  position: absolute;
+  top: 2050px;
+  left: 1048px;
+  width: 277px;
+  height: 104px;
+  background: transparent url('src/assets/images/body4.png ');
+  opacity: 1;
+}
+.custom-image1{
+  position: absolute;
+  top: 1962px;
+  left: 576px;
+  width: 105px;
+  height: 214px;
+  /* UI Properties */
+  background: transparent url('src/assets/images/Group 2874.png');
+  opacity: 1;
+}
+.image04{
+  position: absolute;
+  top: 2246px;
+  left: 560px;
+  width: 119px;
+  height: 147px;
+  /* UI Properties */
+  background: transparent url('src/assets/images/04.png') ;
+  opacity: 1;
+}
+.Let-Make-it-Happen{
+  position: absolute;
+  top: 2326px;
+  left: 568px;
+  width: 317px;
+  height: 46px;
+  /* UI Properties */
+  background: transparent url('src/assets/images/Let’s Make it Happen.png') ;
+  opacity: 1;
+}
+.Let-Make-it-Happen{
+  position: absolute;
+  top: 2326px;
+  left: 568px;
+  width: 317px;
+  height: 46px;
+  /* UI Properties */
+  background: transparent url('src/assets/images/Let’s Make it Happen.png') ;
+  opacity: 1;
+}
+.body05-image{
+  position: absolute;
+  top: 2388px;
+  left: 568px;
+  width: 277px;
+  height: 104px;
+  background: transparent url('src/assets/images/body5.png');
+  opacity: 1;
+}
+.Group1{
+  position: absolute;
+  top: 2286px;
+  left: 1061px;
+  width: 52px;
+  height: 52px;
+  background: transparent url('src/assets/images/Group 2879.png');
+  opacity: 1;
+}
+.Path1{
+  position: absolute;
+  top: 2410px;
+  left: 1045px;
+  width: 41px;
+  height: 41px;
+  background: transparent url('src/assets/images/Path 27246.png');
+  opacity: 1;
+
+}
+.Path2{
+  position: absolute;
+  top: 2312px;
+  left: 1221px;
+  width: 21px;
+  height: 21px;
+  background: transparent url('src/assets/images/Path 27248.png');
+  opacity: 1;
+
+}
+.Group2{
+  position: absolute;
+  top: 2312px;
+  left: 1046px;
+  width: 67px;
+  height: 81px;
+  background: transparent url('src/assets/images/Group 2903.png');
+  opacity: 1;
+  z-index: 3;
+}
+
+.Group3{
+  position: absolute;
+  top: 2321px;
+  left: 1053px;
+  width: 54px;
+  height: 62px;
+  background: transparent url('src/assets/images/Group 2904.png');
+  opacity: 1;
+  z-index: 4;
+}
+.Group4{
+  position: absolute;
+  top: 2334px;
+  left: 1073px;
+  width: 23px;
+  height: 21px;
+  background: transparent url('src/assets/images/Group 2915.png');
+  opacity: 1;
+  z-index: 5;
+}
+.Path3{
+  position: absolute;
+  top: 2299px;
+  left: 1118px;
+  width: 43px;
+  height: 74px;
+  background: transparent url('src/assets/images/Path 27287.png');
+  opacity: 1;
+  z-index: 3;
+}
+.Path4{
+  position: absolute;
+  top: 2300px;
+  left: 1120px;
+  width: 40px;
+  height: 71px;
+  background: transparent url('src/assets/images/Path 27288.png');
+  opacity: 1;
+  z-index: 2;
+}
+
+.Path5{
+  position: absolute;
+  top: 2299px;
+  left: 1117px;
+  width: 18px;
+  height: 74px;
+  background: transparent url('src/assets/images/Path 27283.png');
+  opacity: 1;
+
+}
+
+.Group5{
+  position: absolute;
+  top: 2305px;
+  left: 1120px;
+  width: 38px;
+  height: 63px;
+  background: transparent url('src/assets/images/Group 2894.png');
+  opacity: 1;
+  z-index:3;
+}
+.Group6{
+  position: absolute;
+  top: 2319px;
+  left: 1129px;
+  width: 23px;
+  height: 21px;
+  background: transparent url('src/assets/images/Group 2925.png');
+  opacity: 1;
+  z-index: 4;
+}
+.Group7{
+  position: absolute;
+  top: 2300px;
+  left: 1134px;
+  width: 5px;
+  height: 1px;
+  background: transparent url('src/assets/images/Group 2893.png');
+  opacity: 1;
+
+}
+
+.Group8{
+  position: absolute;
+  top: 2381px;
+  left: 1082px;
+  width: 118px;
+  height: 106px;
+  background: transparent url('src/assets/images/Group 2888.png');
+  opacity: 1;
+  z-index: 3;
+}
+.Group9{
+  position: absolute;
+  top: 2387px;
+  left: 1090px;
+  width: 104px;
+  height: 56px;
+  background: transparent url('src/assets/images/Group 2890.png');
+  opacity: 1;
+  z-index: 2;
+}
+.Group10{
+  position: absolute;
+  top: 2387px;
+  left: 1090px;
+  width: 104px;
+  height: 56px;
+  background: transparent url('src/assets/images/Group 2889.png');
+  opacity: 1;
+  z-index: 1;
+}
+.Group11{
+  position: absolute;
+  top: 2400px;
+  left: 1135px;
+  width: 25px;
+  height: 23px;
+  background: transparent url('src/assets/images/Group 2910.png');
+  opacity: 1;
+  z-index: 6;
+}
+.Path6{
+  position: absolute;
+  top: 2299px;
+  left: 1118px;
+  width: 43px;
+  height: 74px;
+  background: transparent url('src/assets/images/Path 27286.png');
+  opacity: 1;
+  z-index: 1;
+}
+.Group12{
+  position: absolute;
+  top: 2321px;
+  left: 1172px;
+  width: 56px;
+  height: 55px;
+  background: transparent url('src/assets/images/Group 2944.png');
+  opacity: 1;
+  z-index: 1;
+}
+.Group13{
+  position: absolute;
+  top: 2336px;
+  left: 1187px;
+  width: 77px;
+  height: 156px;
+  background: transparent url('src/assets/images/Group 2945.png');
+  opacity: 1;
+  z-index: 2;
+}
+.Group14{
+  position: absolute;
+  top: 2481px;
+  left: 1090px;
+  width: 67px;
+  height: 5px;
+  background: transparent url('src/assets/images/Group 2896.png');
+  opacity: 1;
+  z-index: 4;
+}
+.Rectangle1{
+  position: absolute;
+  top: 2481px;
+  left: 1053px;
+  width: 42px;
+  height: 5px;
+  background: transparent url('src/assets/images/Rectangle 894.png');
+  opacity: 1;
+  z-index: 5;
+}
+.Path7{
+  position: absolute;
+  top: 2429px;
+  left: 1048px;
+  width: 72px;
+  height: 56px;
+  background: transparent url('src/assets/images/Path 27310.png');
+  opacity: 1;
+  z-index: 3;
+}
+.Path8{
+  position: absolute;
+  top: 2432px;
+  left: 1051px;
+  width: 65px;
+  height: 44px;
+  background: transparent url('src/assets/images/Path 27312.png');
+  opacity: 1;
+  z-index: 4;
+}
+.Group15{
+  position: absolute;
+  top: 2435px;
+  left: 1054px;
+  width: 58px;
+  height: 39px;
+  background: transparent url('src/assets/images/Group 2900.png');
+  opacity: 1;
+  z-index: 5;
+}
+.Group16{
+  position: absolute;
+  top: 2438px;
+  left: 1075px;
+  width: 25px;
+  height: 23px;
+  background: transparent url('src/assets/images/Group 2920.png');
+  opacity: 1;
+  z-index: 5;
+}
+.Path{
+  position: absolute;
+  top: 2477px;
+  left: 1037px;
+  width: 244px;
+  height: 16px;
+  background: transparent url('src/assets/images/Path.png');
+  opacity: 1;
+  z-index:1;
+}

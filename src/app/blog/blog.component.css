@@ -1,0 +1,173 @@
+
+.Blog{
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1380px;
+  /* UI Properties */
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.Blog1{
+  position:absolute;
+  top: 6350px;
+  left: 535px;
+  width: 963px;
+  height: 61px;
+  background: transparent url('src/assets/images/And Soon We’ll Be Seeing Your Comments Here....png') ;
+  opacity: 1;
+}
+.Blog2{
+  position:absolute;
+  top: 6573px;
+  left: 480px;
+  width: 443px;
+  height: 287px;
+  opacity: 1;
+}
+.Blog3{
+  position:absolute;
+  top: 6691px;
+  left: 507px;
+  width: 302px;
+  height: 104px;
+  background: url('src/assets/images/body6.png') ;
+  opacity: 1;
+}
+.Blog4{
+  position:absolute;
+  top: 6635px;
+  left: 511px;
+  width: 34px;
+  height: 28px;
+  background: url('src/assets/images/left-quote-01.png') ;
+  opacity: 1;
+}
+.Blog5{
+  position:absolute;
+  top: 6794px;
+  left: 650px;
+  width: 104px;
+  height: 104px;
+  background: url('src/assets/images/photo-1511485977113-f34c92461ad9.png') ;
+  opacity: 1;
+}
+.Blog6{
+  position:absolute;
+  top: 6520px;
+  left: 809px;
+  width: 443px;
+  height: 287px;
+  opacity: 1;
+}
+.Blog7{
+  position:absolute;
+  top: 6625px;
+  left: 879px;
+  width: 302px;
+  height: 104px;
+  background: url('src/assets/images/body7.png') ;
+  opacity: 1;
+}
+.Blog8{
+  position:absolute;
+  top: 6571px;
+  left: 883px;
+  width: 34px;
+  height: 28px;
+  background: url('src/assets/images/left-quote-02.png') ;
+  opacity: 1;
+}
+.Blog9{
+  position:absolute;
+  top: 6742px;
+  left: 978px;
+  width: 104px;
+  height: 104px;
+  background: url('src/assets/images/aiony-haust-3TLl_97HNJo-unsplash.png') ;
+  opacity: 1;
+}
+.Blog10{
+  position:absolute;
+  top: 6559px;
+  left: 1137px;
+  width: 443px;
+  height: 287px;
+  opacity: 1;
+
+}
+.Blog11{
+  position:absolute;
+  top: 6689px;
+  left: 1264px;
+  width: 302px;
+  height: 104px;
+  background: url('src/assets/images/body6.png') ;
+  opacity: 1;
+}
+.Blog12{
+  position:absolute;
+  top: 6637px;
+  left: 1264px;
+  width: 34px;
+  height: 28px;
+  background: url('src/assets/images/left-quote-01.png') ;
+  opacity: 1;
+}
+.Blog13{
+  position:absolute;
+  top: 6794px;
+  left: 1307px;
+  width: 104px;
+  height: 104px;
+  background: url('src/assets/images/photo-1499155286265-79a9dc9c6380.png') ;
+  opacity: 1;
+}
+.Blog14{
+  position:absolute;
+  top: 7008px;
+  left: -8.5px;
+  width: 1937px;
+  height: 358px;
+  opacity: 1;
+}
+.Blog15{
+  position:absolute;
+  top: 6848px;
+  left: 1097px;
+  width: 635px;
+  height: 645px;
+  opacity: 1;
+}
+.Blog16{
+  position:absolute;
+  top: 7101px;
+  left: 960px;
+  width: 266px;
+  height: 69px;
+  opacity: 1;
+}
+.Blog17{
+  position:absolute;
+  top: 7181px;
+  left: 961px;
+  width: 344px;
+  height: 25px;
+  opacity: 1;
+}
+.Blog18{
+  position:absolute;
+  top: 7101px;
+  left: 519px;
+  width: 231px;
+  height: 69px;
+  opacity: 1;
+}
+.Blog19{
+  position:absolute;
+  top: 7184px;
+  left: 518px;
+  width: 342px;
+  height: 75px;
+  opacity: 1;
+}

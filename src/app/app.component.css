@@ -1,0 +1,165 @@
+
+@font-face {
+  font-family: "Madani Arabic Bold 400";
+  src: url('src/assets/fonts/Madani Arabic Bold 400.ttf') format("truetype");
+}
+* {
+  box-sizing: border-box;
+  font-family: "Madani Arabic Bold 400", sans-serif;
+  scroll-behavior: smooth;
+}
+
+html {
+
+}
+
+body {
+
+  width: 1920px;
+  height: 1080px;
+  margin: 0;
+  padding: 0;
+
+}
+
+p {
+  font-weight: 300;
+  color: #111;
+}
+
+header {
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  padding: 20px 10px;
+  width: 100%;
+  z-index: 1;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  transition: 0.5s;
+}
+
+.logo {
+  color: #fff;
+  font-weight: bold;
+  font-size: 2em;
+  text-decoration: none;
+  position: absolute;
+  top: 56px;
+  left: 278px;
+  width: 200px;
+  height: 49px;
+  opacity: 1;
+}
+
+.logo img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.logo span {
+  color: #fb911f;
+}
+
+
+.navbar {
+  display: flex;
+  position: relative;
+}
+
+.navbar li {
+  list-style: none;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 30px;
+  font-weight: 700;
+}
+
+.navbar a img.home-image {
+  /* Layout Properties */
+  top: 63px;
+  left: 530px;
+  width: 46px;
+  height: 25px;
+  /* UI Properties */
+  opacity: 1;
+}
+
+.navbar a img.aboutus-image {
+  top: 63px;
+  left: 621px;
+  width: 72px;
+  height: 25px;
+  /* UI Properties */
+  opacity: 1;
+}
+
+.navbar a img.portfolio-image {
+  top: 63px;
+  left: 733px;
+  width: 68px;
+  height: 25px;
+  /* UI Properties */
+  opacity: 1;
+}
+
+.navbar a img.help-image {
+  top: 63px;
+  left: 847px;
+  width: 36px;
+  height: 25px;
+  /* UI Properties */
+  opacity: 1;
+}
+
+.navbar a img.blog-image {
+  top: 63px;
+  left: 929px;
+  width: 36px;
+  height: 25px;
+  /* UI Properties */
+  opacity: 1;
+}
+
+.navbar a img.contact-image {
+  /* Layout Properties */
+  top: 63px;
+  left: 1009px;
+  width: 70px;
+  height: 25px;
+  /* UI Properties */
+  opacity: 1;
+}
+
+.btn-reserve {
+  padding: 10px 20px;
+  background: transparent;
+  margin-top: -10px;
+  text-transform: uppercase;
+  border: 2px solid white;
+  color: white;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+
+  /* Styles supplémentaires */
+  text-align: left;
+  font-family: "Madani_Arabic_Font_Family_(Fontmirror)", sans-serif;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+}
+
+.btn-reserve:hover {
+  background-color: white;
+  color: black;
+}
+
+.header .navbar li a:hover {
+  color: #fb911f;
+  border-bottom: 2px solid #fb911f;
+}
